@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642600855 source:c:\users\hp\desktop\sum_of_5_no\main.c
+	<stdio.h>
+	<stdlib.h>
+
