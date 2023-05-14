@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636358154 source:c:\users\hp\desktop\switchassignment\main.c
+	<stdio.h>
+	<stdlib.h>
+
