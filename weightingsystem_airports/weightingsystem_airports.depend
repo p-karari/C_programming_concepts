@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642597900 source:c:\users\hp\desktop\weightingsystem_airports\main.c
+	<stdio.h>
+	<stdlib.h>
+
