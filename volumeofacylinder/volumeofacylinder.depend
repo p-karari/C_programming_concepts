@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637138672 source:c:\users\hp\desktop\volumeofacylinder\main.c
+	<stdio.h>
+	<stdlib.h>
+
