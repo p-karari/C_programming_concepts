@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646905251 source:c:\users\hp\desktop\programming projects\celcius_to_farenheit\main.c
+	<stdio.h>
+	<stdlib.h>
+
