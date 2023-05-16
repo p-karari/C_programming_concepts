@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635916474 source:c:\users\hp\desktop\bettercalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
