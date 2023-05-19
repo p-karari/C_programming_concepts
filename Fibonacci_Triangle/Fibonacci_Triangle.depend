@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647349429 source:c:\users\hp\desktop\programming projects\fibonacci_triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+
