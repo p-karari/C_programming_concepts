@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635874608 source:c:\users\hp\desktop\ ifstatement practice\main.c
+	<stdio.h>
+	<stdlib.h>
+
